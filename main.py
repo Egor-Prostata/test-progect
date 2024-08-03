@@ -1,1 +1,2 @@
 print("cocy")
+print('afsf')
